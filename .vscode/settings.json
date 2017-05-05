@@ -3,6 +3,7 @@
     "files.exclude": {
       "**/app/**/*.js.map": true,
       "**/app/**/*.js": true,
+      "node_modules/": true,
       
       "**/config/*.js.map": true,
       "**/config/*.js": {
